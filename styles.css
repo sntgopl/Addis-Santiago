@@ -8,7 +8,7 @@
 
 #image{
     height: auto;
-    width: 700px;
+    max-width: 100%;
     scale: 1/1;
     margin-left: auto;
     margin-right: auto;
